@@ -1,3 +1,4 @@
+![logo](https://github.com/gilda-prv/gilda-prv/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Gilda-Prv</h1>
 <h3 align="center">A passionate frontend developer from IRAN</h3>
 
